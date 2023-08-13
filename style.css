@@ -1,0 +1,75 @@
+
+.card{
+        box-shadow: 0 4px 8px 0 rgba(36, 29, 29, 0.959);
+        width: 250px;
+        height: 350px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+        margin: 5% auto;
+        padding: 10px;
+
+    
+
+
+      
+    
+}
+.card img{
+
+    height: 170px;
+    width: 150px;
+    border-radius: 50%;
+}
+.text.opa{
+    font-size: small;
+}
+p{
+    color: grey;
+    font-size: 15px;
+  }
+
+.card link{
+    justify-content: space-between;
+    display: inline;
+    margin: 10px;
+}
+.link{
+display: inline;
+}
+.twitter{
+   border: 1px solid black;
+   background-color: aliceblue;
+   color: black;
+   padding: 10px;
+   margin: 5px;
+   height: auto;
+}
+.twitter:hover{
+    border: 1px solid black;
+    background-color: rgb(32, 136, 101);
+}
+.insta{
+   border: 1px solid black;
+   background-color: aliceblue;
+   color: black;
+   padding: 10px;
+   margin: 5px;
+   height: auto;
+}
+.insta:hover{
+    border: 1px solid black;
+    background-color: rgb(32, 136, 101);
+}
+.linkedin{
+   border: 1px solid black;
+   background-color: aliceblue;
+   color: black;
+   padding: 10px;
+   margin: 5px;
+   height: auto;
+}
+.linkedin:hover{
+    border: 1px solid black;
+    background-color: rgb(32, 136, 101);
+}

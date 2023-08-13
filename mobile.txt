@@ -1,0 +1,12 @@
+String? name  = stdin.readLineSync();
+int? number = int.parse(stdin.readLineSync()!);
+
+string? name = stdin.readline sync();
+int ? num = int.parse(stdin,.readlinesync()!)
+
+
+string? name=stdin. readlineSync();
+int? number=int.parse(stdin.readlineSync()!);
+
+string? name=stdin. readlineSync();
+int? number=int.parse(stdin.readlineSync()!);
